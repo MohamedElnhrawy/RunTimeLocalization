@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RunTimeLocalization</string>
+    <string name="hello">مرحبا</string>
+    <string name="settings">الاعدادات</string>
+    <string name="lang">اللغة</string>
+    <string name="change">تغيير</string>
+
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RunTimeLocalization</string>
+    <string name="hello">Hello World!</string>
+    <string name="settings">Settings</string>
+    <string name="lang">Language</string>
+    <string name="change">Change</string>
+</resources>
